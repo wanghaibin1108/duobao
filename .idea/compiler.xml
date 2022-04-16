@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="DuoBaoSqlDao" />
+        <module name="DuoBaoThirdManager" />
+        <module name="DuoBaoSqlPoJo" />
+        <module name="DuoBaoPublicController" />
+        <module name="DuoBaoRequestController" />
+        <module name="DuoBaoPublicInterface" />
+        <module name="DuoBaoBusinessService" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo" target="1.8" />
+      <module name="duobao" target="1.8" />
+      <module name="DuoBaoBusinessService" target="1.8" />
+      <module name="DuoBaoPublicController" target="1.8" />
+      <module name="DuoBaoPublicInterface" target="1.8" />
+      <module name="DuoBaoRequestController" target="1.8" />
+      <module name="DuoBaoSqlDao" target="1.8" />
+      <module name="DuoBaoSqlPoJo" target="1.8" />
+      <module name="DuoBaoThirdManager" target="1.8" />
+      <module name="eureka" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="DuoBaoBusinessService" options="-parameters" />
+      <module name="DuoBaoPublicController" options="-parameters" />
+      <module name="DuoBaoPublicInterface" options="-parameters" />
+      <module name="DuoBaoRequestController" options="-parameters" />
+      <module name="DuoBaoSqlDao" options="-parameters" />
+      <module name="DuoBaoSqlPoJo" options="-parameters" />
+      <module name="DuoBaoThirdManager" options="-parameters" />
+      <module name="demo" options="-parameters" />
+      <module name="duobao" options="-parameters" />
+      <module name="eureka" options="-parameters" />
+    </option>
+  </component>
+</project>

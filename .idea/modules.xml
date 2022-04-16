@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DuoBaoBusinessService/DuoBaoBusinessService.iml" filepath="$PROJECT_DIR$/DuoBaoBusinessService/DuoBaoBusinessService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DuoBaoPublicController/DuoBaoPublicController.iml" filepath="$PROJECT_DIR$/DuoBaoPublicController/DuoBaoPublicController.iml" />
+      <module fileurl="file://$PROJECT_DIR$/duobaoBusinessService/DuoBaoPublicInterface.iml" filepath="$PROJECT_DIR$/duobaoBusinessService/DuoBaoPublicInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DuoBaoRequestController/DuoBaoRequestController.iml" filepath="$PROJECT_DIR$/DuoBaoRequestController/DuoBaoRequestController.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DuoBaoSqlDao/DuoBaoSqlDao.iml" filepath="$PROJECT_DIR$/DuoBaoSqlDao/DuoBaoSqlDao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DuoBaoSqlPoJo/DuoBaoSqlPoJo.iml" filepath="$PROJECT_DIR$/DuoBaoSqlPoJo/DuoBaoSqlPoJo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DuoBaoThirdManager/DuoBaoThirdManager.iml" filepath="$PROJECT_DIR$/DuoBaoThirdManager/DuoBaoThirdManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/duobao.iml" filepath="$PROJECT_DIR$/duobao.iml" />
+    </modules>
+  </component>
+</project>
